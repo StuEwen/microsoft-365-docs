@@ -14,7 +14,7 @@ manager: laurawi
 
 # Access the admin portal
 
-Your gateway to the Microsoft Managed Desktop service is the Microsoft [Azure portal](https://portal.azure.com). For more about using and customizing your Azure portal experience generally, see the [Azure portal documentation](https://docs.microsoft.com/azure/azure-portal/). Available in preview now, you can also find Microsoft Managed Desktop in the [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). If you are unfamiliar with the capabilities of this portal for device management, see the [Microsoft Endpoint Manager documentation](https://docs.microsoft.com/mem/).
+Your gateway to the Microsoft Managed Desktop service is [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). If you are unfamiliar with the capabilities of this portal for device management, see the [Microsoft Endpoint Manager documentation](https://docs.microsoft.com/mem/).
 
 > [!NOTE]
 > However you choose to access Microsoft Managed Desktop, in [Microsoft Endpoint Manager](https://endpoint.microsoft.com/) or the [Azure portal](https://portal.azure.com), the following browsers are supported:
